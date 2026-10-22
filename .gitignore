@@ -1,0 +1,25 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos compilados do TypeScript
+dist/
+build/
+
+# Arquivos gerados pelo compilador
+*.js.map
+*.d.ts
+*.d.ts.map
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
